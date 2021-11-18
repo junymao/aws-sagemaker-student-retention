@@ -1,3 +1,3 @@
 # aws-sagemaker-student-retention
 Predicting Student Retention with AWS SageMaker <br>
-Contributed by IRPA @ CSU Bakersfield
+Contributed by Junying Mao @ CSU Bakersfield
